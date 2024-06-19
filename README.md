@@ -52,7 +52,7 @@ Qty|STL
 1x|Plenum Lid
 1x|Cartridge Lid
 
-##Printed Parts Considerations
+## Printed Parts Considerations
 - You don't need any support for any part.
 - You should print the part in the default orientation of the STL.
 - You must print the parts in ABS if you dont want to burn all pieces.
