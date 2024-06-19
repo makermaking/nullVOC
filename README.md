@@ -102,7 +102,7 @@ _The hard part is done!_
 
 - Screw 4x M3x6 BHCS to secure the lid into the plenum.
 
-- Slide in the lid into the cartridge.
+- Slide in the lid into the cartridge.\
 ![](images/click.gif)
 
 Congrats! Now it is fully assembled, let's install it!
