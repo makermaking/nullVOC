@@ -56,7 +56,7 @@ Qty|STL
 
 - Glue the 8x magnets into the plenum and the cartridge
 ![](images/glue.jpg)
-**ATENTION!**__
+**ATENTION!**\
 Make sure that before gluing the magnets, the poles of the magnets on the cartridge and the plenum match with each other, speaking from experience :(
 ![](images/destroyed.jpg)
 
