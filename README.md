@@ -44,5 +44,8 @@ Qty|STL
 1x|Cartridge 
 1x|Plenum Lid
 1x|Cartridge Lid
+
 ## Assembly
+- Insert 4x heatsets into the Plenum for the lid securing screws.
+![](images/inserting)
 
