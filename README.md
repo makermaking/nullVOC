@@ -107,14 +107,14 @@ _The hard part is done!_
 
 Congrats! Now it is fully assembled, let's install it!
 
-##Installation
+## Installation
 - First, you will need to remove the bed.
 - With the bed removed, you can insert one nut into each bed extrusion.
 - Now you can pass the cable through the hole and screw in a screw on each side to its respective nut. It's normal for the fins to flex a bit due to the tolerance that may exist between the two extrusions, but don't worry because the flexion is minimal.
 ![](images/installed.jpg)
 - Search "Your motherboard + pinout" on Google and you'll be able to find out which ports are available for connecting fans.
 
-##Klipper configuration
+## Klipper configuration
 My configuration establishes that when the bed reaches 90°C, the fan will turn on and will turn off as soon as the target temperature is below 90°C. This way, when printing with ABS, which in my setup requires a bed temperature of 105°C, the fan will turn on.
 ```
 [heater_fan nullvoc]
