@@ -6,6 +6,10 @@ The carbon filter that fits in your Micron+ without mods!
 
 ![assembled](https://github.com/makermaking/nullVOC/blob/main/images/assembled.jpg?raw=true "nullVOC Carbon Filter")
 
+- [(null)VOC Background](#(null)VOC-Background)
+- [BOM](BOM)
+- [Printed Parts BOM](Printed-Parts-BOM)
+
 ## (null)VOC Background
 
 When it came time to choose which mods I was going to use on my Micron+, I realized that the only option at the moment was 3DPF, a very good project, but in my opinion, it could have some improvements and a slightly more "Voron" aesthetic.
