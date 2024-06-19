@@ -48,6 +48,12 @@ Qty|STL
 ## Assembly
 ![](images/disassembled.jpg)
 
+
+
+
+
+
+
 - Glue the 8x magnets into the plenum and the cartridge
 ![](images/glue.jpg)
 **ATENTION!**
@@ -75,7 +81,7 @@ _(Photo from 3DPF)_
 **(If you don't want to use a JST-XH connector and )**
 
 - With the connector soldered, insert it into the hole where it should fit tightly (make sure to push it all the way in). Spread hot silicone to keep the connector and its connections in place. You can leave the excess cable in the hole (as shown in the image) or you can cut it directly.
-![](images/assembled.jpg)
+![](images/connector_assembled.jpg)
 
 _The hard part is done!_
 
