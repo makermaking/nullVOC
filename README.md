@@ -47,5 +47,5 @@ Qty|STL
 
 ## Assembly
 - Insert 4x heatsets into the Plenum for the lid securing screws.
-![](images/inserting.jpg)
+![ers](images/inserting.jpg)
 
