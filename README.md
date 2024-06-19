@@ -57,7 +57,7 @@ Qty|STL
 - Glue the 8x magnets into the plenum and the cartridge
 ![](images/glue.jpg)
 **ATENTION!**
-Make sure that before gluing the magnets, the poles of the magnets on the cartridge and the plenum match with each other, speaking from experience :(
+/nMake sure that before gluing the magnets, the poles of the magnets on the cartridge and the plenum match with each other, speaking from experience :(
 ![](images/destroyed.jpg)
 
 - Insert 4x inserts into the Plenum for the lid securing screws.
@@ -74,11 +74,11 @@ _(Photo from 3DPF)_
 - Screw 2x M3x8 BHCS on the bottom of the plenum to attach the fan.
 ![](images/fan_screws.jpg)
 
+**If you simply want to run the fan cable directly, ignore the following two steps and print the next file, which will allow you to insert the cable and then fit it into the same hole where the JST connector goes.**
+
 - Solder the two fan wires to the JST-XH connector, paying attention to the polarity (Included an image for reference).
 ![](images/jst_soldered.jpg)
 ![](images/jst_direction.jpg)
-
-**(If you don't want to use a JST-XH connector and )**
 
 - With the connector soldered, insert it into the hole where it should fit tightly (make sure to push it all the way in). Spread hot silicone to keep the connector and its connections in place. You can leave the excess cable in the hole (as shown in the image) or you can cut it directly.
 ![](images/connector_assembled.jpg)
@@ -89,12 +89,16 @@ _The hard part is done!_
 ![](images/plenum_lid.png)
 
 - Screw 4x M3x6 BHCS to secure the lid into the plenum.
-![](images/fan_screws.jpg)
 
 - Slide in the lid into the cartridge.
 ![](images/click.gif)
 
-- Slide in the lid into the cartridge.
+Congrats! Now it is fully assembled, let's install it!
+
+##Installation
+- First, you will need to remove the bed.
+- With the bed removed, you can insert one nut into each bed extrusion.
+- Now you can pass the cable through the hole and screw in a screw on each side to its respective nut. It's normal for the fins to flex a bit due to the tolerance that may exist between the two extrusions, but don't worry because the flexion is minimal.
 
 
 
