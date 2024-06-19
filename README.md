@@ -7,8 +7,12 @@ The carbon filter that fits in your Micron+ without mods!
 ![assembled](https://github.com/makermaking/nullVOC/blob/main/images/assembled.jpg?raw=true "nullVOC Carbon Filter")
 
 - [(null)VOC Background](#(null)VOC-Background)
-- [BOM](BOM)
-- [Printed Parts BOM](Printed-Parts-BOM)
+- [BOM](#BOM)
+- [Printed Parts BOM](#Printed-Parts-BOM)
+- [Printed Parts Considerations](#Printed-Parts-Considerations)
+- [Assembly](#Assembly)
+- [Installation](#Installation)
+- [Klipper configuration](#Klipper-configuration)
 
 ## (null)VOC Background
 
