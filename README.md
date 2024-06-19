@@ -115,7 +115,7 @@ Congrats! Now it is fully assembled, let's install it!
 - Search "Your motherboard + pinout" on Google and you'll be able to find out which ports are available for connecting fans.
 
 ## Klipper configuration
-My configuration establishes that when the bed reaches 90°C, the fan will turn on and will turn off as soon as the target temperature is below 90°C. This way, when printing with ABS, which in my setup requires a bed temperature of 105°C, the fan will turn on.
+My configuration sets that when the bed reaches 90°C, the fan will turn on and will turn off as soon as the target temperature is below 90°C. This way, when printing with ABS, which in my setup requires a bed temperature of 105°C, the fan will turn on.
 ```
 [heater_fan nullvoc]
 pin: YOUR FAN PIN
