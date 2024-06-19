@@ -56,8 +56,8 @@ Qty|STL
 
 - Glue the 8x magnets into the plenum and the cartridge
 ![](images/glue.jpg)
-**ATENTION!**
-/nMake sure that before gluing the magnets, the poles of the magnets on the cartridge and the plenum match with each other, speaking from experience :(
+**ATENTION!**__
+Make sure that before gluing the magnets, the poles of the magnets on the cartridge and the plenum match with each other, speaking from experience :(
 ![](images/destroyed.jpg)
 
 - Insert 4x inserts into the Plenum for the lid securing screws.
