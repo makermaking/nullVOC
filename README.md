@@ -31,7 +31,7 @@ Qty |Part|Notes
 ---|----|---
 8x|6x3 Magnets
 6x|Voron Spec Brass Heatset Inserts|M3x5Dx4.5W
-2x|M3x6 FHCS|M3x8 / M3x10 FHCS will also work for attaching the fan to the plenum
+2x|M3x8 FHCS|M3x6 / M3x10 FHCS will also work for attaching the fan to the plenum
 4x|M3x6 BHCS|M3x8 / M3x10 BHCS will also work for the plenum lid
 2x|M3x6 BHCS|To mount the plenum to the extrusions
 1x|5015 Blower Fan
@@ -46,6 +46,57 @@ Qty|STL
 1x|Cartridge Lid
 
 ## Assembly
-- Insert 4x heatsets into the Plenum for the lid securing screws.
-![ers](images/inserting.jpg)
+![](images/disassembled.jpg)
+
+- Glue the 8x magnets into the plenum and the cartridge
+![](images/glue.jpg)
+**ATENTION!**
+Make sure that before gluing the magnets, the poles of the magnets on the cartridge and the plenum match with each other, speaking from experience :(
+![](images/destroyed.jpg)
+
+- Insert 4x inserts into the Plenum for the lid securing screws.
+![](images/inserting.jpg)
+![](images/inserted.jpg)
+
+- Insert 2x inserts into the bottom of the screw tabs on the 5015 fan.
+![](images/fan.jpg)
+
+- You may need to recess them 1-2 mm to allow the screws to sit correctly on the underside of the plenum.
+![](images/fan_insert_recess.png)
+_(Photo from 3DPF)_
+
+- Screw 2x M3x8 BHCS on the bottom of the plenum to attach the fan.
+![](images/fan_screws.jpg)
+
+- Solder the two fan wires to the JST-XH connector, paying attention to the polarity (Included an image for reference).
+![](images/jst_soldered.jpg)
+![](images/jst_direction.jpg)
+
+**(If you don't want to use a JST-XH connector and )**
+
+- With the connector soldered, insert it into the hole where it should fit tightly (make sure to push it all the way in). Spread hot silicone to keep the connector and its connections in place. You can leave the excess cable in the hole (as shown in the image) or you can cut it directly.
+![](images/assembled.jpg)
+
+_The hard part is done!_
+
+- Insert the leading edge of the plenum lid into the small gap, and then press the lid down until it is fully inserted.
+![](images/plenum_lid.png)
+
+- Screw 4x M3x6 BHCS to secure the lid into the plenum.
+![](images/fan_screws.jpg)
+
+- Slide in the lid into the cartridge.
+![](images/click.gif)
+
+- Slide in the lid into the cartridge.
+
+
+
+
+
+
+
+
+
+
 
