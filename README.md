@@ -20,7 +20,7 @@ When it came time to choose which mods I was going to use on my Micron+, I reali
 
 **(null)VOC is based on:**
 - [The original Nevermore](https://github.com/nevermore3d/Nevermore_Micro) (Lots of good info on carbon filters on this page)
-- [3DPF by @Jadecky](https://github.com/nevermore3d/Nevermore_Micro) 
+- [3DPF by @Jadecky](https://github.com/Jadecky/3DPF) 
 - [The ZeroFilter by @zruncho](https://github.com/zruncho3d/zerofilter)
 
 This is one of the most complex projects I have done to date, and when designing it, I did not have a clear idea from the beginning. Therefore, the design is not very parametric due to poor organization during its creation, leading to numerous fusion errors when making the slightest change. I will try to improve the base file and upload the enhanced version, but this does not affect the final design itself, just in case you want to modify it.
