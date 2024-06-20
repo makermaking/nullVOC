@@ -58,7 +58,7 @@ Qty|STL
 - You must print the parts in ABS if you dont want to burn all pieces.
 
 ## Assembly
-![](images/disassembled.jpg)
+![](images/disassembled.jpg)\
 
 
 
@@ -66,9 +66,9 @@ Qty|STL
 
 
 
-- Glue the 8x magnets into the plenum and the cartridge
+- Glue the 8x magnets into the plenum and the cartridge\
 ![](images/glue.jpg)
-**ATENTION!**\
+**ATTENTION!**\
 Make sure that before gluing the magnets, the poles of the magnets on the cartridge and the plenum match with each other, speaking from experience :(
 ![](images/destroyed.jpg)
 
