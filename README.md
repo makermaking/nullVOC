@@ -86,7 +86,7 @@ _(Photo from 3DPF)_
 - Screw 2x M3x8 BHCS on the bottom of the plenum to attach the fan.
 ![](images/fan_screws.jpg)
 
-**If you simply want to run the fan cable directly, ignore the following two steps and print (this file)[beta1/STLs/Dummy cover (optional).stl], which will allow you to insert the cable and then fit it into the same hole where the JST connector goes.**
+**If you simply want to run the fan cable directly, ignore the following two steps and print [this file](beta1/STLs/Dummy cover (optional).stl), which will allow you to insert the cable and then fit it into the same hole where the JST connector goes.**
 
 - Solder the two fan wires to the JST-XH connector, paying attention to the polarity (Included an image for reference).
 ![](images/jst_soldered.jpg)
