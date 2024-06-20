@@ -58,7 +58,7 @@ Qty|STL
 - You must print the parts in ABS if you dont want to burn all pieces.
 
 ## Assembly
-![](images/disassembled.jpg)\
+![](images/disassembled.jpg)
 
 
 
